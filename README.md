@@ -2,6 +2,8 @@
 
 A Spring Boot application that fetches the latest top headlines from NewsAPI and summarizes them using a local Ollama-hosted Mistral model. The service produces a concise daily news brief in JSON format and can also render an HTML version for browser display.
 
+<img width="1917" height="971" alt="Screenshot 2026-10-09 060942" src="https://github.com/user-attachments/assets/e3cfa29e-5c09-4c76-9163-4b98b79d2ed5" />
+
 ## Overview
 
 This project combines:
